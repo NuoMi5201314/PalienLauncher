@@ -1,6 +1,7 @@
 # PalienLauncher
 
 **Palien Launcher icon**
+<img width="2048" height="2048" alt="1767372408880" src="https://github.com/user-attachments/assets/ede1ddd9-5dfe-4ffc-83ce-ebf11ce1487d" />
 
 
 **language**:[English](README.md) | [简体中文](README_zh-CN.md)

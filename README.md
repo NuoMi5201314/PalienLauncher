@@ -3,7 +3,7 @@
 **Palien Launcher icon**
 <img width="1024" height="1024" alt="1767538929926" src="https://github.com/user-attachments/assets/99a36c47-1706-4c7a-9461-f1ae1040a45e" />
 
-[Discord](https://discord.gg/dcdcZSgqA)
+[Discord](https://discord.gg/dcdcZSgqA)[Tencent channel](https://pd.qq.com/s/dczfr1z09?b=9)
 
 **language**:[English](README.md) | [简体中文](README_zh-CN.md)
 
